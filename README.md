@@ -1,0 +1,3 @@
+# Desafio: Infrastructure as Code (IaC) com Serverless Framework na AWS
+
+O objetivo principal deste desafio proposto pelo Tech Teacher [Cassiano Peres](https://github.com/cassianobrexbit) em conjunto com a [DIO](https://www.dio.me/), é nos fazer conhecer na prática como criar a infraestrutura de um **Back-End Serverless** (CRUD com funções Lambda, banco de dados e API) na **AWS** fazendo uso do **Serverless Framework**.
